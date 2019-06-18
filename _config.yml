@@ -16,14 +16,14 @@ sass:
 host:           localhost # same as default value '127.0.0.1' but reads better
 
 # Links
-main:           "https://getbootstrap.com"
+main:           "http://gradem.io/auth/register"
 expo:           "https://expo.getbootstrap.com"
 themes:         "https://themes.getbootstrap.com"
 
 # Social
-authors:        "Mark Otto, Jacob Thornton, and Bootstrap contributors"
+authors:        "Robert Lee"
 author:
-  twitter:      "getbootstrap"
+  twitter:      "grademapp"
 
 twitter:
   card:         "summary_large_image"

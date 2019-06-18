@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Bootstrap 3.4.1 and 4.3.1
+title: How to expand and simplify polynomials
 ---
+
+
 
 Today we're shipping [Bootstrap v4.3.1](https://github.com/twbs/bootstrap/releases/tag/v4.3.1) and [v3.4.1](https://github.com/twbs/bootstrap/releases/tag/v3.4.1) to patch an XSS vulnerability, CVE-2019-8331. Also included in v4.3.1 is a small fix to some RFS (responsive font sizes) mixins that were added in v4.3.0.
 
